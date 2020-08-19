@@ -1,0 +1,16 @@
+body {
+    background: linear-gradient(rgb(34, 34, 39),#777677,rgb(223, 221, 221));
+
+}
+
+.navbar-nav {
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.nav-item {
+    font-size: 25px;
+}
